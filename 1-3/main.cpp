@@ -2,10 +2,7 @@
 #include <vector>
 #include <algorithm>
 
-using std::cin;
-using std::cout;
-using std::vector;
-using std::sort;
+using std::cin, std::cout, std::vector, std::sort;
 
 int main() {
 	vector<double> scores;
